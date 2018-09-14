@@ -19,7 +19,7 @@
  */
 
 const constants = {
-    APP_ID: "YOUR_SKILL_ID",
+    APP_ID: "amzn1.ask.skill.17c1a4bb-da3b-41b4-949b-f8816318a517",
 
     DYNAMODB_TABLE: "alexa-horoscopes-workshop",
 
