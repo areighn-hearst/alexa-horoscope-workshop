@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "YOUR_INVOCATION_NAME",
+      "invocationName": "Horoscope 4 Me",
       "intents": [
         {
           "name": "HoroscopeIntent",
